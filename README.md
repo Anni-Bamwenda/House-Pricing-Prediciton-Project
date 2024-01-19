@@ -39,7 +39,7 @@ These preprocessing steps are integral to model performance later on as they imp
 ### Data Cleaning
 * Input missing values in the dataset
 
-### Data engineering
+### Feature engineering
 * Create new variables
 * Variable transformation using label encoding
 * Train and Test split
