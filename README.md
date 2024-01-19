@@ -3,7 +3,7 @@
 ## Description
 This is a Kaggle House Price Prediction Competition - House Prices: Advanced Regression Techniques. 
 The objective of the project is to perform data visulalization techniques to understand the insight of the given data using python.  
-After performing the data analysis and data engineering, we use advanced regression techniques to make predictions.
+After performing the data analysis and feature engineering, we use advanced regression techniques to make predictions.
 
 
 ## Software and Libraries
