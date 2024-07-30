@@ -25,10 +25,10 @@ The dataset has 79 explanatory variables describing (almost) every aspect of res
 The general workflow used to create the model is:
 ### Data Preprocessing:
 These preprocessing steps are integral to model performance later on as they improve the quality and interpretability of the dataset.
-    * Step 01: Import the libraries
-    * Step 02: Import the datasets
-    * Step 03: Look at the data head/tail
-    * Step 04: Check out the missing values in every feature.
+ - Step 01: Import the libraries
+ - Step 02: Import the datasets
+ - Step 03: Look at the data head/tail
+ - Step 04: Check out the missing values in every feature.
 
 ### Data Analysis:
 * Look out for Potential outliers in each variable
